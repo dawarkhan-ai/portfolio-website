@@ -1,2 +1,15 @@
 # portfolio-website
-HTML based a personal website for showcasing about me, my skills, achievements etc.
+
+This is my personal portfolio website built using HTML only.
+
+## Sections
+- About
+- Skills
+- Projects
+- Contact
+
+## How to run locally
+Just open `index.html` in a browser.
+
+## License
+MIT

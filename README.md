@@ -11,5 +11,4 @@ This is my personal portfolio website built using HTML only.
 ## How to run locally
 Just open `index.html` in a browser.
 
-## License
-MIT
+
